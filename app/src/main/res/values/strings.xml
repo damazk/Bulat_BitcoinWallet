@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Bulat_BitcoinWallet</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="not_enough_funds">Not enough funds</string>
+    <string name="bitcoin_wallet">₿itcoin Wallet</string>
+    <string name="failed_to_load_transaction_id">Failed to load transaction ID</string>
+    <string name="balance">Balance: %1$s</string>
+    <string name="your_btc_address">Your BTC Address: %1$s</string>
+    <string name="address_to_send">Address to send</string>
+    <string name="amount_to_send">Amount to send</string>
+    <string name="send">Send</string>
+    <string name="error">Error: %1$s</string>
+    <string name="ok">Ok</string>
+    <string name="your_funds_have_been_sent">Your funds have been sent!</string>
+    <string name="your_transaction_id_is">Your transaction ID is:</string>
+    <string name="send_more">Send More</string>
+    <string name="transaction_failed">Transaction Failed :(</string>
+    <string name="transactions_history">Transactions History</string>
+    <string name="received">Received</string>
+    <string name="sent">Sent</string>
+    <string name="transaction_id">Transaction ID: %1$s…</string>
+    <string name="date">Date: %1$s</string>
+    <string name="sum_tbtc">Sum: %1$s tBTC</string>
+    <string name="failed_to_load_transactions">Failed to load transactions</string>
+</resources>
